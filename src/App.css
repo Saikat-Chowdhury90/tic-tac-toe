@@ -5,6 +5,9 @@
 body
 {
     margin-top: 2em;
+    background-color: black;
+   
+    
 }
 .board-row
 {
@@ -15,7 +18,7 @@ body
 
 .square {
     background: #fff;
-    border: 1px solid #999;
+    border: 3px solid #999;
     float: left;
     font-size: 24px;
     font-weight: bold;
@@ -36,4 +39,7 @@ body
   {
     margin-bottom: 1rem;
     margin-left: 0.5rem;
+    color: white;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
